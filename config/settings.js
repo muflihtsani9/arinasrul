@@ -57,10 +57,8 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "Selamat ulang tahun, ARI NASRUL!",
-  "Aku sengaja bikin kejutan kecil ini buat kamu. Meskipun sekarang kita LDR beda negara dan nggak bisa ngerayain bareng secara langsung, tapi doa dan hatiku selalu ada buat kamu.",
-  "Semangat terus ya kerjanya di sana. Jangan pernah ngerasa sendiri, karena kamu selalu punya aku di sini yang selalu dukung kamu.",
-  "Harapanku di hari ulang tahunmu ini, semoga kamu selalu dikasih kesehatan, dilancarkan segala urusannya, dan yang paling penting, tetep sama aku terus ya, hehe. Happy birthday, sayangku!",
+  `selamat ulang tahun sayangkuuu💗🫶🏻 Semoga dengan bertambahnya umur kamu, kamu bisa menjadi pribadi yg lebih baik laii, sehat selalu, dilancarkan rezekinya, dipermudah segala urusannya.  semoga tujuan kita berdua cepat tercapai aamiin dan terima kasih telah memberiku cinta yg belum pernah aku temui sebelumnya, tetap menjadi laki" yg tidak pernah berubah dari awal hingga akhir ya💗 aku sengaja bikin kejutan kecil ini buat kamu, meskipun sekarang kita Ldr dan nggak bisa ngerayain bareng secara langsung tapi akan ku pastikan kamu di rayakan.`,
+  `aku tetap disini mendo'akan dan selalu suport kamu. ingat selalu kata" aku yaa jangan melakukan hal aneh meskipun aku jsuh dan tidak mengetahui itu, semangat kerjanya. sekali lagi happy brithday sayangkuuu💗🫶🏻`
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
